@@ -1,3 +1,6 @@
 este é o primiro arquivo':wq
 ---
 AGORA FOI AJUSTADO ;-)
+
+FIX':wq
+
